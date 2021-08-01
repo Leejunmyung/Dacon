@@ -8,4 +8,3 @@
    * sample_submission.csv
    * age_gender_info.csv
 
-![로고](https://ifh.cc/g/QncW1O.png)
