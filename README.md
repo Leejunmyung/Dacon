@@ -9,5 +9,6 @@
    * test.csv
    * sample_submission.csv
    * age_gender_info.csv
+ * notion : https://star-elm-e73.notion.site/AI-40a06a01803743769243a6696e32a30c
 
 ***
